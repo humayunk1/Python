@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-"""An implementation of AVL tree in Python 3.5.1
+"""An implementation of Stack in Python 3.5.1
    Code by: Humayun Kabir, humayun.k1@gmail.com"""
 
 
