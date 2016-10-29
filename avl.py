@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+"""An implementation of AVL tree in Python 3.5.1
+   Code by: Humayun Kabir, humayun.k1@gmail.com"""
+
 class AVLTree:
     """An AVL tree implementation"""
     class Node:
